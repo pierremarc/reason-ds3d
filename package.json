@@ -1,5 +1,5 @@
 {
-  "name": "bs-ds3d",
+  "name": "reason-ds3d",
   "version": "0.1.0",
   "scripts": {
     "build": "bsb -make-world",
@@ -15,7 +15,6 @@
     "bs-platform": "^4.0.0"
   },
   "dependencies": {
-    "gl-matrix": "^2.7.0",
     "reason-matrix": "git+https://github.com/pierremarc/reason-matrix.git"
   }
 }
